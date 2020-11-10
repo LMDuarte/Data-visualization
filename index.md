@@ -1,34 +1,11 @@
-## Welcome to the: Data Visualization page
+### Teaching to See
 
+As the video "Teaching to See" demonstrates, Inge Druckery follows a design philosophy that has taught her students to see the world's beauty. Inge has a way of deconstructing the world around her in their simplest shapes. By doing this, she can construct visuals that tell precise stories. 
 
-### Markdown
+The importance of abstract images can never be understated. Some art pieces may carry deep meaning, while others demonstrate technique and beauty. The beauty in designing abstract art pieces is the ability to control the viewers' eyes. The artist creates a well-crafted flow, in which they can guide the viewer to observe the image as it is intended. Although there is beauty in abstract images, creating abstract art allows the artist to observe the world around them deeply. This observation can be accomplished with minimal shapes, as is demonstrated in Inge Druckery's assignment of the five lines. She asked for her student to merely put down five lines in a given format. The placements of the lines drastically change the negative space of the image.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The practice of drawing enhances the artist's attention to detail. Inge's explained that you must observe the lighting, shadow, and texture to capture an object. It is an exercise that forces observation out of an individual. For example, when drawing live animals, you only have moments to capture the moving subject's essence. Drawing live animals, more than attention to detail, it enhances understanding. 
 
-```markdown
-Syntax highlighted code block
+Additionally, drawing as an exercise does improve the craft. The assignment of Inge lines represents to me a personal understanding of abstract art. It shows removing meaning from objects and just drawing for the sake of it. Removing meaning from the final product reduces anxiety in the process. If the end piece does not need to mean or represent anything, the process becomes enjoyable and carries greater flow. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LMDuarte/Data-visualization/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+As seen in "Teaching to See," the 1979 Beethoven poster shows a functional design that is creative, meaningful, and visually appealing. Like the information of time and date can be presented in such lively and attractive ways, such can data. By applying the philosophy of Igne Druckery to data visualization, we could reach many intrigued eyes. It is never enough to be correct or to have the right data. If the message cannot be appealing to listen to or see, then the data is useless. It is not enough to appeal to academics or those who actively seek information science presents. As researchers, we must appeal to a broad audience. We must apply more artistic and visually interesting designs in our data presentation.
